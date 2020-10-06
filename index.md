@@ -8,7 +8,7 @@
       <b>Doctoral Candidate</b><br/>
       <b>College of Computer Science and Techonology</b><br/>
       <b>Harbin Institute of Techonology</b><br/>
-      <b>92 Xidazhi Road, Harbin 150001, China</b><br/>
+      <b>92 Xidazhi Street, Harbin 150006, China</b><br/>
       <b>Email：20b903064@stu.hit.edu.cn, 474658234@qq.com </b><br/>
     </td>
   </tr>
