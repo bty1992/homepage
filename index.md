@@ -24,9 +24,9 @@
 - Knowledge Graph
 
 # Education
-- <PRE>09/2020 - &#9Ph.D. in College of Cumputer Science and Techonology, Harbin Institute of Techonology, China</PRE>
-- 09/2017 - 06/2020 M.S. in College of Information and Communication Engineering, Harbin Engineering University, China
-- 09/2011 - 03/2016 B.S. in College of Electronic Information Engineering, Beihang University, China
+<PRE>09/2020 - &#9Ph.D. in College of Cumputer Science and Techonology, Harbin Institute of Techonology, China</PRE>
+<PRE>09/2017 - 06/2020 &#9PM.S. in College of Information and Communication Engineering, Harbin Engineering University, China</PRE>
+<PRE>09/2011 - 03/2016 &#9PB.S. in College of Electronic Information Engineering, Beihang University, China</PRE>
 
 # Publications
 - 
