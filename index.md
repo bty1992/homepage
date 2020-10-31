@@ -1,7 +1,7 @@
 <table border="0">
   <tr>
     <td width="20%">
-      <img src="identification_photo.JPG" width="100%">
+      <img src="/identification_photo.JPG" width="100%">
     </td>
     <td width="80%" align="center" valign="middle">
       <h1><font color="#005AB5">Tianyi Bi (毕天屹)</font></h1>
